@@ -1,4 +1,4 @@
 \# IT Infrastructure Labs
 
-Hands-on labs covering Networking, Active Directory, Intune, and Azure.
+Hands-on labs covering Networking CCNA, Active Directory, Intune, and Azure.
 
