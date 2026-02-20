@@ -224,45 +224,43 @@ show running-config
 
 
 
-CCNA-labs/
-
-
+IT-Infrastructure-Labs
 
 │
 
+├── Networking
 
+│   │
 
-├── VLAN/
+│   ├── VLAN
 
+│   │   ├── vlan\_lab.pkt
 
+│   │   └── Notes.md
 
-│   ├── vlan\\\_lab.pkt
+│   │
 
+│   ├── OSPF
 
+│   │
 
-│   └── Notes.md
+│   ├── ACL
 
+│   │
 
+│   └── NAT
 
 │
 
+├── Active-Directory
 
+├── Microsoft-Intune
 
-├── OSPF/
+├── Azure
 
-
-
-├── ACL/
-
-
-
-├── NAT/
-
-
+│
 
 └── README.md
-
-
 
 \## 🎯 Goal
 
